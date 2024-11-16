@@ -321,7 +321,18 @@ input[type="number"] {
 .footer__list_3 a:focus,
 .footer__list_4 a:focus,
 .footer__list_5 a:focus {
+    border:0;
     outline: 0;
+    background:none;
+}
+.footer__list_1 a:active,
+.footer__list_2 a:active,
+.footer__list_3 a:active,
+.footer__list_4 a:active,
+.footer__list_5 a:active {
+    border:0;
+    outline: 0;
+    background:none;
 }
 .footer__list_1 img,
 .footer__list_2 img,
