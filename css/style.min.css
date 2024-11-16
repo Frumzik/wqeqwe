@@ -314,8 +314,7 @@ input[type="number"] {
 .footer__list_4 a,
 .footer__list_5 a {
     display: block;
-    outline: 0;
-    height: 0.1px;
+    height: 0px;
 }
 .footer__list_1 a:focus,
 .footer__list_2 a:focus,
