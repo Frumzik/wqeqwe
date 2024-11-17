@@ -313,8 +313,7 @@ input[type="number"] {
 .footer__list_3 a,
 .footer__list_4 a,
 .footer__list_5 a {
-    display: block;
-    height: 0px;
+    -webkit-tap-highlight-color: transparent;
 }
 .footer__list_1 a:focus,
 .footer__list_2 a:focus,
